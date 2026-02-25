@@ -11,7 +11,7 @@ import {
   FiPlus,
 } from "react-icons/fi";
 import { apiFetch } from "@/lib/api";
-
+// this is the app footer for the main page navigation
 export default function AppFooter() {
   const router = useRouter();
   const pathname = usePathname();
