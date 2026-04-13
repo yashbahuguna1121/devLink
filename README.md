@@ -103,3 +103,4 @@ devLink-backend/
 - Worked on frontend development
 - Designed UI components
 - Integrated frontend with backend APIs
+- Improved UI responsiveness
