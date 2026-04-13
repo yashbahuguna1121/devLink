@@ -99,3 +99,7 @@ devLink-backend/
 │
 ├── main.go
 └── go.mod
+## My Contribution
+- Worked on frontend development
+- Designed UI components
+- Integrated frontend with backend APIs
